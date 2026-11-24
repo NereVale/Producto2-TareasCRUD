@@ -1,0 +1,10 @@
+Passwords:
+
+"name": "Nere",
+  "email": "nere@correo.com",
+  "password": "123456"
+
+lily@correo.com
+lily
+
+
